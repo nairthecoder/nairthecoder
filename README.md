@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  nair-the-coder 
+- Official Github for my Data Science/ Machine Learning/ Deep Learning Repo
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, Deep Learning, Big Data Management, Animation, Problem Solving.
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on new problems
