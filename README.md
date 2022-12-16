@@ -1,7 +1,6 @@
 ### Official Github for my Data Science/ Machine Learning/ Deep Learning and BlockChain Repo
-- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on new problems
-- 📫 How to reach me, later
+
 
 
 
