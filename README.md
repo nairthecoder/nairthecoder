@@ -1,7 +1,11 @@
-### Official Github for my Data Science/ Machine Learning/ Deep Learning and BlockChain Repo
+### Official Github for my Data Science/ AI/ Machine Learning/ Deep Learning Repo
 - 💞️ I’m looking to collaborate on new problems
 
-
+Contact me on: 🖥️ Official Hackathon Profile Github Profile Username:  [**CrackySolver**](https://github.com/crackysolver)
+<br><br>
+or
+<br><br>
+<a href="mailto:nairthecod3r@gmail.com"><img src="gmail.png" width="30"></a>
 
 
 <!---
